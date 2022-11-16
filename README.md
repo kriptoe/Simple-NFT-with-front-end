@@ -3,7 +3,7 @@
 Check it out at
 https://sick-wine.surge.sh/
 
-You can mint an NFT using 0.01 Goerli Test Eth on the Goerli Test Netwrok.
+You can mint an NFT using 0.01 Goerli Test Eth on the Goerli Test Network.
 
 Once you've minted an NFT you should be able to view it in your profile on Opensea (https://testnets.opensea.io/)
 
