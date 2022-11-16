@@ -12,6 +12,7 @@ These files are stored on IPFS using Pinata.
 
 Contract was coded on Remix.
 Deployed and verified using Hardhat.
+NPM build to deploy to website.
 Uploaded to Website using surge.
 
 React JS is used for the front end.
