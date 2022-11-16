@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x53859E414CA5192445c5E2c162403afdb10870b2",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x0aD2f1EeB4D8Af789e30378f6A125dd4a2621490",
+  "NETWORK": {
+    "NAME": "GOERLI",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Simple NFT Example",
+  "SYMBOL": "nft",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lsd-v2",
+  "SHOW_BACKGROUND": true
+}
