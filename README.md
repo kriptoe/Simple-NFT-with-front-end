@@ -1,4 +1,10 @@
 # Simple-NFT-with-front-end
+
+Contract was coded on Remix.
+Deployed and verified using Hardhat.
+Uploaded to Website using surge.
+
+React JS is used for the front end.
 Simple IPFS NFT with minting front end
 
 This is a simple NFT minting front end and contract Forked from Hashlips https://github.com/HashLips
